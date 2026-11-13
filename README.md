@@ -8,7 +8,7 @@
   <a href="https://geethapriya1625.github.io/portfolio-next/"><img src="https://img.shields.io/badge/Portfolio-geethapriya1625.github.io-0969da?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/kanikireddy"><img src="https://img.shields.io/badge/LinkedIn-kanikireddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:GeethaPriya.K@uga.edu"><img src="https://img.shields.io/badge/Email-GeethaPriya.K%40uga.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://geethapriya1625.github.io/GeethaPriyaResume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-2ea44f?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"></a>
+  <a href="https://geethapriya1625.github.io/portfolio-next/GeethaPriyaKR.pdf"><img src="https://img.shields.io/badge/Resume-PDF-2ea44f?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"></a>
 </p>
 
 <p align="center"><b>Open to new-grad and early-career Backend, Software and AI Engineer roles starting January 2027 · Atlanta, GA · open to relocation</b></p>
