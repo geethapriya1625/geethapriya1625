@@ -99,7 +99,7 @@ The generative step is the small part. Retrieval quality, ranking, and output va
 | Role | Where | When |
 |---|---|---|
 | Software Engineering Intern | University of Georgia | Aug 2025 – Present |
-| Software Engineer | CrimsonLogic, Bangalore | Jan 2023 – Jul 2025 |
+| Software Engineer | CrimsonLogic, Bangalore | Aug 2022 – Jul 2025 |
 
 **Education:** M.S. Computer Science, University of Georgia (Dec 2026, GPA 3.9) · B.E. Computer Science, Nagarjuna College of Engineering and Technology
 
